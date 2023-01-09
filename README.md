@@ -32,5 +32,7 @@ Basic Pair Matching game + can find the rank of the game result (found by server
 
 ### Requirements
 for GUI : tkinter, threading, random library
+
 for server, client : sys, socket, threading library
+
 for database: sqlite3 library
