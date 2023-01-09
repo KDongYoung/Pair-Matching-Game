@@ -25,6 +25,7 @@ for database: sqlite3 library
 
 ### Graphical User Interface
 1. Input user information
+2. 
 ![1](https://user-images.githubusercontent.com/37610908/78634907-fca60400-78df-11ea-96f1-1ef23cc82074.png)
 
 2. START
@@ -32,6 +33,7 @@ for database: sqlite3 library
 ![2](https://user-images.githubusercontent.com/37610908/78634908-fca60400-78df-11ea-8b7b-b7b789103f7d.png)
 
 3. End of game + Visualizes images
+
 ![3](https://user-images.githubusercontent.com/37610908/78634910-fd3e9a80-78df-11ea-9b81-7b3b3997e1c2.png)
 --------------------------------------------------------------------------
 ## Relationship diagram
