@@ -23,7 +23,7 @@ class cards:
         line = file.read()
         name = line.split("\n")
         for part in name:
-            self.picname.append(part)
+            self.picname.append("picture/"+part)
         file.close()
 
     # 난이도에 따라 카드 선택 및 순서 섞기
