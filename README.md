@@ -1,7 +1,7 @@
 # Pair-Matching-Game
 
-A final exam project 
-Basic Pair Matching game + can find the rank of the game result (found by server connection))
+A Basic Pair Matching game + can find the rank of the game result (found by server connection))
+
 --------------------------------------------------------------------------
 ## GUI
 1. Input user information
